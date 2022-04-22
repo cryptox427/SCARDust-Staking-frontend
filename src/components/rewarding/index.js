@@ -38,7 +38,7 @@ function Rewarding() {
                                 <ul>
                                     <li>Stake DUST via this page to earn:</li>
                                     <li><font>▶</font> WETH trading fees</li>
-                                    <li><font>▶</font> Extra DUST</li>
+                                    <li><font>▶</font> Extra SCRD</li>
                                 </ul>
                             </div>
                         </Col>
