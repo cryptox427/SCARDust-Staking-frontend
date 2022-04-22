@@ -17,7 +17,7 @@ function Rewarding() {
         <div className="masthead">
             <Container>
                 <div className='rewarding'>
-                    <h4>Earn with DUST</h4><br/>
+                    <h4>Earn with SCRD</h4><br/>
                     <Row>
                         <Col lg={4}>
                             <div className = 'earnby'>
