@@ -86,7 +86,7 @@ function Advertise() {
                     <div >
                         <p>Stake SCRD, earn up to </p>
                         <p className='apy_value'>{'234.81%'}</p>
-                        <a href = "https://app.uniswap.org/" target="_blank" rel="noopener noreferrer" ><Button icon = {'boxArrowUpRight'} value = 'Buy DUST'/></a>
+                        <a href = "https://app.uniswap.org/" target="_blank" rel="noopener noreferrer" ><Button icon = {'boxArrowUpRight'} value = 'Buy SCRD'/></a>
                     </div>
                     </Col>
                     <Col lg={8}>

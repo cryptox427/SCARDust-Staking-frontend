@@ -22,10 +22,10 @@ function Rewarding() {
                         <Col lg={4}>
                             <div className = 'earnby'>
 
-                                <span className="head_title">DUST helps you earn rewards.</span> <br/><br/>
+                                <span className="head_title">SCRD helps you earn rewards.</span> <br/><br/>
                                 <p>Rewards (both wETH and SCRD) are automatically re-staked into the pool to increase the amount of SCRD staked. When you unstake your tokens, the amount of compounded SCRD plus the original amount staked will be sent to your address.</p><br/>
                                 <a href = "https://www.warmus.land/scardust/" target="_blank" rel="noopener noreferrer" >
-                                    <Button icon = {''} value = 'Buy DUST'/>
+                                    <Button icon = {''} value = 'Buy SCRD'/>
                                 </a>
                             </div>
                         </Col>
@@ -36,7 +36,7 @@ function Rewarding() {
                                 <p>SCRD gets you the best apy for your investment. </p>
                                 <br/><br/>
                                 <ul>
-                                    <li>Stake DUST via this page to earn:</li>
+                                    <li>Stake SCRD via this page to earn:</li>
                                     <li><font>▶</font> WETH trading fees</li>
                                     <li><font>▶</font> Extra SCRD</li>
                                 </ul>
