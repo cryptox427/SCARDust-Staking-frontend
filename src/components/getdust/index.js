@@ -37,7 +37,7 @@ function GetDUST() {
                                     </a>
                                 </div>
                                 <br/><br/>
-                                <a href = "https://docs.looksrare.org/about/buy-looks" target="_blank" rel="noopener noreferrer" >
+                                <a href = "https://www.warmus.land/scardust/" target="_blank" rel="noopener noreferrer" >
                                     <p style={{marginLeft:'25%', color:'#339ede'}}>Learn how to get SCRD</p>
                                 </a>
                             </div>

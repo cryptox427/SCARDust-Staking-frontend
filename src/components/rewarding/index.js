@@ -24,7 +24,7 @@ function Rewarding() {
 
                                 <span className="head_title">DUST helps you earn rewards.</span> <br/><br/>
                                 <p>Rewards (both wETH and SCRD) are automatically re-staked into the pool to increase the amount of SCRD staked. When you unstake your tokens, the amount of compounded SCRD plus the original amount staked will be sent to your address.</p><br/>
-                                <a href = "https://docs.looksrare.org/about/buy-looks" target="_blank" rel="noopener noreferrer" >
+                                <a href = "https://www.warmus.land/scardust/" target="_blank" rel="noopener noreferrer" >
                                     <Button icon = {''} value = 'Buy DUST'/>
                                 </a>
                             </div>
@@ -33,7 +33,7 @@ function Rewarding() {
                             <div className = 'earnby'>
                                 <span className="head_title">Earn By Staking</span>
                                 <br/><br/>
-                                <p>SCRD gets you the best apy for your investment something like that. </p>
+                                <p>SCRD gets you the best apy for your investment. </p>
                                 <br/><br/>
                                 <ul>
                                     <li>Stake DUST via this page to earn:</li>
@@ -46,7 +46,7 @@ function Rewarding() {
                         <div className = 'earnby'>
                                 <span className="head_title">Earn By Staking</span>
                                 <br/><br/>
-                                <p>SCRD gets you the best apy for your investment something like that. </p>
+                                <p>SCRD gets you the best apy for your investment. </p>
                             </div>
                         </Col>
                     </Row>
